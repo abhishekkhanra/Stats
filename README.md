@@ -1,1 +1,1 @@
-conduct statistical tests for Basketball.csv dataset
+conduct statistical tests and plot various graphs for Basketball.csv dataset
